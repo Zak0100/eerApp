@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS userSavedProperty;
+DROP TABLE IF EXISTS property;
+DROP TABLE IF EXISTS account;
